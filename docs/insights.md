@@ -210,6 +210,8 @@ All counts, rates, and revenue figures below are calculated from the synthetic d
 
 **Business implication:** Use cohort age-adjusted retention to identify onboarding changes that deserve a controlled follow-up.
 
+**Note:** Month 0 counts customers active at signup-month end; 146 same-month cancellations account for all 146 customers not retained across the 24 cohorts. The reported 97.9% is the unweighted average of cohort rates (the customer-weighted rate is 97.6%).
+
 ## Q27 — How Can Customers Be Grouped Into Practical Churn Risk Segments (Advanced)
 
 **Question:** Churn-risk segment using tenure, channel, and ticket volume

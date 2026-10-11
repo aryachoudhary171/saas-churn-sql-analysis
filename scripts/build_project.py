@@ -2,7 +2,7 @@
 from pathlib import Path
 import csv, re, sqlite3
 import pandas as pd
-ROOT=Path(__file__).resolve().parent
+ROOT=Path(__file__).resolve().parent.parent
 TABLES=['customers','plans','subscriptions','payments','support_tickets']
 LABELS={
 1:'How many customers are there in each country?',2:'How many subscriptions are active versus cancelled?',3:'How much paid revenue did each plan generate?',4:'How many customers signed up each month?',5:'What is the average number of support tickets per customer?',6:'Which five countries generated the most paid revenue?',
@@ -151,6 +151,8 @@ def docs(out, counts):
             28:'Treat combinations with small eligible cohorts cautiously and validate retention before changing channel or plan strategy.'}
         implication=implications[q]
         lines += [f"## Q{q:02} — {NAMES[q].replace('_',' ').title()} ({difficulty})",'',f"**Question:** {title}",'',f"**Finding:** {finding}",'',f"**Business implication:** {implication}",'']
+        if q==26:
+            lines += ["**Note:** Month 0 counts customers active at signup-month end; 146 same-month cancellations account for all 146 customers not retained across the 24 cohorts. The reported 97.9% is the unweighted average of cohort rates (the customer-weighted rate is 97.6%).",'']
     (ROOT/'docs/insights.md').write_text('\n'.join(lines),encoding='utf-8')
     md='''# CloudNest SaaS Subscription Business Analysis (SQL)
 
@@ -175,7 +177,10 @@ All data is synthetic and generated locally with a fixed random seed; there are 
 3. Create the database with SQLite: open `cloudnest.db` in DB Browser for SQLite, or run the provided `sql/schema.sql` and import each CSV into its matching table. Keep the CSV column order and names.
 4. Execute each statement in `sql/queries.sql` in SQLite. The already generated database and result CSVs are included for review.
 
-`build_project.py` is included to rebuild the database and export the 28 result CSVs with the bundled analysis workflow: `python build_project.py` (requires pandas and numpy).
+`scripts/build_project.py` rebuilds the database and exports the 28 result CSVs from the existing CSV data: `python scripts/build_project.py` (requires pandas and numpy). It also writes `scripts/verification.txt`.
+
+## Note on month-0 retention
+Month-0 retention counts cohort customers whose subscription is still active at the end of their signup month; a cancellation dated on or before that month-end does not count as retained. A database check found **146 subscriptions** ending in the same calendar month they started, matching the **146 customers** not retained at month 0 (5,854 of 6,000 retained, or 97.6% when weighted by customer count). The **97.9%** reported in the insights is the unweighted average of the 24 monthly cohort retention rates, so differing cohort sizes explain the difference.
 
 ## Folder structure
 `data/` generator and input CSVs · `sql/` schema and 28 business questions · `results/` one CSV per query · `docs/` narrative and diagrams · `cloudnest.db` SQLite database.
@@ -186,7 +191,7 @@ SELECT and filtering, joins, aggregation, NULL handling, CTEs, subqueries, windo
 ## SQL dialect note
 The queries use SQLite date functions (`strftime`, `date`, `julianday`) and `LIMIT`. For PostgreSQL, replace these with `DATE_TRUNC`, interval arithmetic, and `EXTRACT`; for MySQL use `DATE_FORMAT`, `DATE_ADD`, and `DATEDIFF`. SQLite's `PERCENT_RANK()` and window syntax are available in modern SQLite; check equivalents in older database versions.
 '''
-    (ROOT/'docs/README.md').write_text(md,encoding='utf-8')
+    (ROOT/'README.md').write_text(md,encoding='utf-8')
     (ROOT/'docs/erd.md').write_text('''# Entity relationship diagram\n\n```mermaid\nerDiagram\n    CUSTOMERS ||--o{ SUBSCRIPTIONS : owns\n    PLANS ||--o{ SUBSCRIPTIONS : selected\n    SUBSCRIPTIONS ||--o{ PAYMENTS : billed\n    CUSTOMERS ||--o{ SUPPORT_TICKETS : opens\n    CUSTOMERS { int customer_id PK }\n    PLANS { int plan_id PK }\n    SUBSCRIPTIONS { int subscription_id PK int customer_id FK int plan_id FK }\n    PAYMENTS { int payment_id PK int subscription_id FK }\n    SUPPORT_TICKETS { int ticket_id PK int customer_id FK }\n```\n''',encoding='utf-8')
     # Recommendations are grounded directly in result tables and calculated figures.
     ch=out[8][2]; best=ch.iloc[ch.churn_rate.argmin()]; worst=ch.iloc[ch.churn_rate.argmax()]
@@ -238,7 +243,8 @@ def main():
     null_scores=con.execute('SELECT COUNT(*) FROM support_tickets WHERE satisfaction_score IS NULL').fetchone()[0]
     failed=con.execute("SELECT COUNT(*) FROM payments WHERE status='failed'").fetchone()[0]
     duplicate_ticket_rows=con.execute('SELECT COUNT(*) FROM support_tickets').fetchone()[0]-con.execute('SELECT COUNT(*) FROM (SELECT customer_id,created_date,category,resolution_hours,satisfaction_score FROM support_tickets GROUP BY customer_id,created_date,category,resolution_hours,satisfaction_score)').fetchone()[0]
-    (ROOT/'verification.txt').write_text(f"Queries executed: {len(out)}\nAll query outputs non-empty: yes\nForeign key violations: 0\nRow count checks (CSV = database): {checks}\nResult CSV files: {len(results)}\nData quality review: {null_scores} NULL satisfaction scores ({null_scores/counts['support_tickets']:.2%}); {duplicate_ticket_rows} duplicate-detail ticket rows; {failed} failed payment rows.\n",encoding='utf-8')
-    con.close(); print((ROOT/'verification.txt').read_text())
+    verification=ROOT/'scripts'/'verification.txt'
+    verification.write_text(f"Queries executed: {len(out)}\nAll query outputs non-empty: yes\nForeign key violations: 0\nRow count checks (CSV = database): {checks}\nResult CSV files: {len(results)}\nData quality review: {null_scores} NULL satisfaction scores ({null_scores/counts['support_tickets']:.2%}); {duplicate_ticket_rows} duplicate-detail ticket rows; {failed} failed payment rows.\n",encoding='utf-8')
+    con.close(); print(verification.read_text())
 
 if __name__=='__main__': main()
