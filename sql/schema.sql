@@ -1,0 +1,13 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE customers (customer_id INTEGER PRIMARY KEY, signup_date TEXT NOT NULL, country TEXT NOT NULL, acquisition_channel TEXT NOT NULL, company_size TEXT NOT NULL);
+CREATE TABLE plans (plan_id INTEGER PRIMARY KEY, plan_name TEXT NOT NULL UNIQUE, monthly_price REAL NOT NULL);
+CREATE TABLE subscriptions (subscription_id INTEGER PRIMARY KEY, customer_id INTEGER NOT NULL REFERENCES customers(customer_id), plan_id INTEGER NOT NULL REFERENCES plans(plan_id), start_date TEXT NOT NULL, end_date TEXT, status TEXT NOT NULL CHECK(status IN ('active','cancelled')), cancel_reason TEXT);
+CREATE TABLE payments (payment_id INTEGER PRIMARY KEY, subscription_id INTEGER NOT NULL REFERENCES subscriptions(subscription_id), payment_date TEXT NOT NULL, amount REAL NOT NULL, status TEXT NOT NULL CHECK(status IN ('paid','failed','refunded')));
+CREATE TABLE support_tickets (ticket_id INTEGER PRIMARY KEY, customer_id INTEGER NOT NULL REFERENCES customers(customer_id), created_date TEXT NOT NULL, category TEXT NOT NULL, resolution_hours REAL NOT NULL, satisfaction_score INTEGER CHECK(satisfaction_score BETWEEN 1 AND 5 OR satisfaction_score IS NULL));
+CREATE INDEX idx_customers_signup ON customers(signup_date);
+CREATE INDEX idx_customers_channel ON customers(acquisition_channel);
+CREATE INDEX idx_subscriptions_customer ON subscriptions(customer_id);
+CREATE INDEX idx_subscriptions_start ON subscriptions(start_date);
+CREATE INDEX idx_payments_subscription_date ON payments(subscription_id,payment_date);
+CREATE INDEX idx_payments_date_status ON payments(payment_date,status);
+CREATE INDEX idx_tickets_customer_date ON support_tickets(customer_id,created_date);

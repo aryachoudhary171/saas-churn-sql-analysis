@@ -1,0 +1,2646 @@
+customer_id,country,acquisition_channel
+2,US,Paid Search
+3,UK,Organic
+4,US,Email
+5,US,Organic
+7,UK,Organic
+8,Australia,Email
+9,Canada,Referral
+12,Canada,Organic
+13,US,Email
+16,US,Organic
+17,US,Email
+19,Canada,Social
+22,Australia,Paid Search
+29,Germany,Paid Search
+33,US,Referral
+37,Germany,Paid Search
+39,US,Referral
+40,US,Social
+41,UK,Organic
+42,US,Referral
+44,Germany,Organic
+45,UK,Organic
+48,US,Paid Search
+50,UK,Referral
+54,US,Paid Search
+59,Australia,Paid Search
+60,Australia,Paid Search
+66,Australia,Paid Search
+68,US,Email
+72,US,Organic
+74,US,Organic
+76,UK,Email
+77,UK,Paid Search
+79,US,Organic
+80,Australia,Paid Search
+89,US,Organic
+91,US,Paid Search
+92,US,Organic
+97,US,Paid Search
+99,UK,Referral
+101,UK,Organic
+103,Australia,Paid Search
+106,Germany,Social
+111,US,Paid Search
+113,US,Referral
+114,Germany,Organic
+119,Australia,Organic
+120,US,Paid Search
+122,US,Referral
+123,Canada,Organic
+124,US,Email
+126,US,Referral
+127,US,Paid Search
+129,UK,Organic
+130,US,Email
+131,US,Paid Search
+132,UK,Organic
+138,US,Referral
+139,US,Referral
+140,UK,Referral
+142,US,Social
+146,UK,Organic
+149,Germany,Organic
+151,Australia,Organic
+153,US,Referral
+156,US,Organic
+158,US,Referral
+162,UK,Social
+163,US,Organic
+164,UK,Referral
+168,UK,Email
+169,US,Paid Search
+170,Canada,Social
+171,Germany,Paid Search
+172,US,Referral
+175,US,Email
+177,Canada,Paid Search
+181,US,Paid Search
+183,Australia,Email
+189,UK,Organic
+190,UK,Organic
+191,Australia,Social
+192,US,Organic
+193,US,Organic
+194,UK,Paid Search
+196,US,Organic
+197,Canada,Organic
+198,US,Organic
+199,UK,Social
+203,UK,Social
+206,Canada,Social
+210,Australia,Organic
+215,US,Paid Search
+217,UK,Paid Search
+222,US,Paid Search
+225,UK,Organic
+226,US,Organic
+229,UK,Email
+231,Australia,Paid Search
+232,UK,Email
+233,Australia,Organic
+235,US,Email
+239,Australia,Email
+240,UK,Referral
+244,Canada,Referral
+245,US,Referral
+246,US,Social
+249,UK,Social
+252,US,Organic
+253,US,Referral
+257,UK,Referral
+258,US,Organic
+259,UK,Paid Search
+261,Australia,Paid Search
+262,US,Paid Search
+267,US,Paid Search
+272,US,Organic
+273,UK,Paid Search
+275,US,Referral
+281,Canada,Organic
+282,US,Email
+284,US,Paid Search
+287,UK,Social
+289,US,Email
+295,US,Social
+297,Australia,Email
+300,Germany,Organic
+302,UK,Paid Search
+304,US,Paid Search
+305,Canada,Social
+307,Canada,Paid Search
+310,Canada,Paid Search
+311,US,Email
+313,Germany,Organic
+314,US,Paid Search
+317,UK,Referral
+318,Canada,Social
+321,US,Paid Search
+322,US,Paid Search
+323,Australia,Organic
+328,UK,Organic
+330,US,Social
+332,Germany,Social
+336,US,Paid Search
+346,UK,Paid Search
+353,Canada,Paid Search
+358,Germany,Organic
+359,UK,Email
+365,Australia,Email
+369,UK,Social
+372,US,Organic
+374,Canada,Organic
+380,UK,Organic
+382,Australia,Paid Search
+385,US,Social
+389,Germany,Referral
+391,US,Paid Search
+393,US,Referral
+395,UK,Organic
+399,UK,Organic
+408,US,Organic
+409,UK,Social
+412,Canada,Referral
+413,UK,Email
+414,Germany,Email
+415,UK,Social
+419,Australia,Social
+422,UK,Paid Search
+423,Canada,Paid Search
+425,US,Organic
+426,US,Organic
+428,US,Email
+429,UK,Email
+430,US,Paid Search
+432,UK,Referral
+433,US,Organic
+435,UK,Referral
+436,US,Paid Search
+438,US,Organic
+440,UK,Paid Search
+441,UK,Referral
+442,Germany,Social
+443,Australia,Paid Search
+444,Australia,Organic
+447,Canada,Social
+452,US,Referral
+453,UK,Social
+455,Canada,Social
+457,UK,Organic
+459,UK,Referral
+461,US,Referral
+462,Canada,Paid Search
+463,Canada,Organic
+464,US,Organic
+465,UK,Referral
+466,Australia,Referral
+467,US,Paid Search
+468,Canada,Organic
+469,Germany,Organic
+472,UK,Organic
+475,US,Social
+478,US,Social
+479,US,Email
+482,UK,Social
+483,Australia,Organic
+484,Canada,Referral
+486,Australia,Social
+489,US,Email
+491,US,Organic
+493,Australia,Paid Search
+497,UK,Paid Search
+499,US,Organic
+501,Germany,Referral
+503,UK,Organic
+504,Australia,Email
+506,US,Organic
+507,Germany,Referral
+508,US,Paid Search
+511,Canada,Organic
+519,US,Organic
+521,Germany,Paid Search
+522,UK,Social
+523,US,Email
+533,Canada,Paid Search
+535,UK,Paid Search
+536,US,Email
+537,US,Paid Search
+538,UK,Social
+543,Germany,Organic
+544,UK,Social
+545,US,Paid Search
+547,US,Referral
+549,Canada,Organic
+552,US,Paid Search
+553,Australia,Social
+554,US,Paid Search
+555,US,Email
+556,US,Paid Search
+558,US,Paid Search
+559,Australia,Social
+560,US,Organic
+561,UK,Organic
+565,UK,Paid Search
+566,Canada,Organic
+567,UK,Paid Search
+572,UK,Email
+575,UK,Social
+577,UK,Paid Search
+579,Germany,Paid Search
+580,Germany,Paid Search
+581,Australia,Organic
+582,UK,Organic
+583,Canada,Social
+584,US,Referral
+585,UK,Social
+586,US,Paid Search
+588,Germany,Paid Search
+590,UK,Referral
+591,US,Social
+600,US,Paid Search
+602,US,Email
+603,US,Email
+605,Canada,Organic
+607,Australia,Social
+612,US,Organic
+613,UK,Organic
+614,US,Referral
+619,US,Paid Search
+621,Australia,Referral
+622,US,Referral
+623,US,Referral
+625,US,Email
+629,US,Paid Search
+630,Canada,Referral
+631,Canada,Paid Search
+632,US,Referral
+633,Australia,Email
+634,UK,Paid Search
+635,Canada,Organic
+638,Canada,Referral
+639,Canada,Social
+640,US,Paid Search
+641,US,Social
+642,Australia,Paid Search
+643,US,Paid Search
+645,UK,Paid Search
+646,US,Email
+647,US,Organic
+655,UK,Organic
+656,US,Paid Search
+666,Canada,Paid Search
+668,UK,Social
+673,UK,Organic
+674,UK,Social
+678,Australia,Social
+679,US,Organic
+681,Canada,Email
+682,Australia,Paid Search
+686,US,Paid Search
+688,Australia,Paid Search
+692,US,Social
+694,Australia,Paid Search
+696,US,Referral
+697,US,Social
+698,US,Referral
+702,UK,Referral
+705,UK,Paid Search
+706,UK,Referral
+707,US,Organic
+709,UK,Paid Search
+714,UK,Paid Search
+715,UK,Organic
+716,Australia,Organic
+717,Canada,Social
+718,Australia,Referral
+719,UK,Paid Search
+721,US,Paid Search
+722,US,Organic
+724,US,Email
+731,Australia,Email
+733,Australia,Organic
+735,US,Referral
+736,Germany,Email
+739,Canada,Paid Search
+742,US,Organic
+743,US,Organic
+744,US,Social
+748,UK,Paid Search
+749,UK,Paid Search
+751,US,Email
+752,US,Organic
+753,Canada,Social
+754,Australia,Organic
+759,US,Paid Search
+760,US,Paid Search
+761,US,Referral
+766,UK,Organic
+769,Australia,Social
+771,US,Social
+772,UK,Organic
+773,UK,Social
+775,UK,Paid Search
+776,US,Organic
+778,UK,Organic
+780,Canada,Referral
+782,US,Referral
+784,US,Paid Search
+791,US,Social
+793,Canada,Paid Search
+795,UK,Organic
+799,UK,Social
+801,US,Email
+803,UK,Organic
+805,Australia,Social
+811,US,Referral
+812,US,Social
+813,US,Organic
+814,US,Organic
+816,US,Paid Search
+820,Germany,Social
+822,Germany,Paid Search
+823,UK,Organic
+824,US,Social
+835,US,Paid Search
+836,US,Organic
+838,UK,Paid Search
+841,Canada,Social
+842,Germany,Paid Search
+844,US,Organic
+845,UK,Organic
+848,US,Referral
+850,Germany,Social
+852,US,Email
+856,US,Social
+857,US,Organic
+858,US,Organic
+865,UK,Social
+869,UK,Organic
+871,Canada,Email
+872,UK,Organic
+873,UK,Organic
+874,US,Referral
+875,US,Paid Search
+876,UK,Paid Search
+877,US,Referral
+878,US,Organic
+879,Canada,Social
+880,US,Paid Search
+882,UK,Social
+886,Germany,Referral
+888,US,Organic
+889,UK,Email
+891,UK,Referral
+892,US,Referral
+894,US,Organic
+897,Germany,Paid Search
+898,US,Social
+899,UK,Referral
+903,Canada,Referral
+904,US,Email
+905,UK,Organic
+907,Canada,Referral
+908,Australia,Referral
+909,Germany,Paid Search
+910,US,Organic
+911,Canada,Paid Search
+913,Canada,Paid Search
+915,Canada,Organic
+919,US,Paid Search
+921,Canada,Social
+922,Canada,Email
+923,US,Organic
+925,US,Email
+929,US,Organic
+933,UK,Paid Search
+934,Canada,Referral
+935,UK,Email
+937,Australia,Paid Search
+942,UK,Paid Search
+944,UK,Referral
+945,US,Paid Search
+947,Canada,Organic
+949,Canada,Organic
+950,Australia,Referral
+957,US,Organic
+968,US,Organic
+969,UK,Organic
+971,Canada,Organic
+979,Canada,Organic
+980,Canada,Referral
+982,Germany,Organic
+983,US,Referral
+986,UK,Social
+987,UK,Email
+988,US,Organic
+991,US,Paid Search
+992,US,Paid Search
+993,Australia,Paid Search
+995,Canada,Referral
+996,Australia,Paid Search
+998,US,Paid Search
+1005,Australia,Paid Search
+1006,UK,Social
+1010,UK,Paid Search
+1012,Germany,Social
+1015,US,Organic
+1016,Germany,Organic
+1018,US,Paid Search
+1019,US,Paid Search
+1022,Germany,Paid Search
+1025,US,Organic
+1026,UK,Organic
+1027,UK,Paid Search
+1033,US,Organic
+1035,US,Organic
+1037,US,Email
+1038,Canada,Social
+1039,Australia,Organic
+1041,Canada,Email
+1044,US,Referral
+1046,Germany,Referral
+1050,US,Organic
+1051,Germany,Organic
+1053,US,Organic
+1054,US,Paid Search
+1059,UK,Paid Search
+1060,US,Social
+1061,US,Paid Search
+1065,US,Paid Search
+1066,Australia,Organic
+1067,Canada,Referral
+1069,US,Organic
+1070,Canada,Social
+1072,US,Organic
+1076,UK,Referral
+1079,US,Referral
+1081,Australia,Paid Search
+1093,Australia,Paid Search
+1096,US,Social
+1097,UK,Organic
+1099,US,Referral
+1101,US,Organic
+1103,UK,Paid Search
+1104,US,Referral
+1105,US,Paid Search
+1108,UK,Paid Search
+1113,Canada,Organic
+1114,UK,Organic
+1117,US,Social
+1119,US,Social
+1121,US,Organic
+1122,US,Social
+1124,Australia,Email
+1125,US,Email
+1126,Germany,Organic
+1129,Australia,Social
+1131,UK,Social
+1135,US,Organic
+1136,Canada,Email
+1137,US,Organic
+1140,US,Referral
+1143,Canada,Organic
+1144,US,Referral
+1147,US,Email
+1150,UK,Organic
+1151,UK,Referral
+1153,Germany,Paid Search
+1159,US,Email
+1161,UK,Organic
+1163,UK,Referral
+1168,US,Paid Search
+1169,UK,Paid Search
+1170,US,Organic
+1172,UK,Organic
+1173,Canada,Referral
+1174,UK,Paid Search
+1175,US,Organic
+1181,US,Paid Search
+1183,Canada,Organic
+1184,US,Organic
+1186,US,Organic
+1187,US,Organic
+1188,US,Organic
+1194,UK,Paid Search
+1196,Germany,Paid Search
+1199,Canada,Organic
+1202,US,Organic
+1207,UK,Paid Search
+1211,UK,Referral
+1212,Canada,Paid Search
+1213,UK,Paid Search
+1216,US,Organic
+1218,Canada,Social
+1219,US,Social
+1221,US,Social
+1222,US,Social
+1223,UK,Social
+1224,US,Organic
+1231,US,Paid Search
+1232,US,Social
+1233,US,Social
+1234,US,Social
+1236,Canada,Organic
+1238,UK,Social
+1240,Australia,Organic
+1241,UK,Organic
+1243,Canada,Email
+1250,UK,Organic
+1253,Australia,Paid Search
+1254,UK,Organic
+1255,UK,Referral
+1257,UK,Paid Search
+1258,Australia,Social
+1259,Canada,Organic
+1260,US,Email
+1262,Australia,Organic
+1263,UK,Organic
+1266,US,Paid Search
+1267,US,Social
+1271,Australia,Paid Search
+1275,Canada,Social
+1277,US,Social
+1279,UK,Paid Search
+1281,Canada,Paid Search
+1282,US,Organic
+1283,US,Email
+1290,US,Email
+1294,US,Organic
+1300,UK,Social
+1307,US,Email
+1311,US,Social
+1312,US,Social
+1314,UK,Referral
+1315,US,Organic
+1316,US,Paid Search
+1320,US,Organic
+1321,US,Organic
+1324,Germany,Email
+1327,Germany,Email
+1330,US,Paid Search
+1331,US,Organic
+1332,Australia,Paid Search
+1333,US,Paid Search
+1334,UK,Paid Search
+1335,US,Paid Search
+1340,Australia,Organic
+1341,UK,Organic
+1343,Australia,Organic
+1348,UK,Referral
+1349,US,Social
+1350,US,Referral
+1352,US,Email
+1354,UK,Referral
+1359,US,Paid Search
+1361,UK,Organic
+1362,Canada,Organic
+1364,Australia,Email
+1367,US,Paid Search
+1370,Germany,Social
+1372,Australia,Paid Search
+1380,US,Referral
+1388,US,Referral
+1389,US,Paid Search
+1391,US,Referral
+1393,US,Referral
+1396,Australia,Email
+1397,US,Organic
+1398,US,Paid Search
+1400,Canada,Organic
+1401,UK,Organic
+1402,US,Paid Search
+1403,US,Paid Search
+1408,UK,Social
+1411,Canada,Referral
+1412,Canada,Organic
+1414,UK,Paid Search
+1417,US,Email
+1424,UK,Social
+1425,Canada,Paid Search
+1427,Germany,Email
+1428,US,Paid Search
+1429,UK,Organic
+1431,Australia,Email
+1434,US,Social
+1441,Australia,Referral
+1442,Australia,Organic
+1444,US,Referral
+1446,UK,Paid Search
+1455,Germany,Organic
+1456,UK,Social
+1458,Australia,Referral
+1459,US,Social
+1460,UK,Paid Search
+1461,UK,Organic
+1462,UK,Paid Search
+1466,US,Organic
+1467,US,Organic
+1469,Canada,Organic
+1470,UK,Organic
+1473,US,Organic
+1474,UK,Organic
+1475,US,Paid Search
+1476,UK,Social
+1480,Australia,Email
+1485,US,Paid Search
+1488,US,Organic
+1492,Germany,Referral
+1493,Canada,Referral
+1497,US,Organic
+1498,UK,Paid Search
+1499,Canada,Organic
+1503,US,Social
+1504,UK,Organic
+1505,UK,Organic
+1506,Canada,Social
+1510,UK,Referral
+1512,UK,Paid Search
+1513,US,Referral
+1515,Canada,Organic
+1516,UK,Referral
+1519,US,Paid Search
+1520,US,Social
+1521,US,Social
+1523,UK,Social
+1524,US,Organic
+1528,Canada,Organic
+1529,US,Social
+1532,US,Organic
+1535,US,Social
+1538,Australia,Email
+1539,US,Organic
+1542,US,Email
+1543,UK,Organic
+1548,US,Paid Search
+1550,US,Paid Search
+1551,Australia,Organic
+1552,Canada,Referral
+1555,Canada,Email
+1557,US,Social
+1558,US,Email
+1562,US,Organic
+1564,UK,Paid Search
+1565,US,Social
+1570,Germany,Email
+1572,Germany,Organic
+1574,US,Social
+1577,Australia,Paid Search
+1578,US,Email
+1579,US,Referral
+1585,UK,Social
+1588,Germany,Referral
+1590,UK,Paid Search
+1594,Australia,Organic
+1599,US,Paid Search
+1601,Germany,Social
+1607,Canada,Organic
+1610,Australia,Paid Search
+1617,US,Organic
+1621,US,Social
+1622,Canada,Social
+1624,US,Email
+1625,US,Organic
+1628,Australia,Paid Search
+1630,Australia,Paid Search
+1633,Australia,Email
+1634,UK,Organic
+1642,Germany,Referral
+1646,US,Referral
+1648,US,Referral
+1651,Australia,Referral
+1656,Canada,Organic
+1658,Canada,Paid Search
+1664,Germany,Paid Search
+1666,UK,Paid Search
+1668,US,Email
+1670,UK,Referral
+1672,US,Email
+1676,UK,Email
+1677,US,Paid Search
+1680,Germany,Organic
+1683,UK,Organic
+1686,Australia,Organic
+1688,Canada,Paid Search
+1689,US,Paid Search
+1692,US,Social
+1693,US,Organic
+1694,US,Organic
+1697,US,Organic
+1698,Australia,Paid Search
+1701,US,Email
+1703,UK,Organic
+1704,UK,Social
+1705,US,Organic
+1708,UK,Paid Search
+1709,US,Email
+1710,Canada,Organic
+1711,UK,Organic
+1717,UK,Social
+1720,UK,Organic
+1725,Australia,Referral
+1729,UK,Organic
+1731,UK,Social
+1732,UK,Paid Search
+1734,US,Referral
+1737,Canada,Paid Search
+1738,UK,Paid Search
+1739,US,Email
+1742,UK,Social
+1744,Germany,Referral
+1747,UK,Referral
+1748,UK,Paid Search
+1749,US,Organic
+1750,Australia,Social
+1752,US,Social
+1753,Australia,Email
+1754,Australia,Organic
+1761,US,Paid Search
+1763,US,Paid Search
+1764,US,Paid Search
+1765,UK,Social
+1767,Canada,Social
+1772,US,Paid Search
+1773,US,Social
+1774,Germany,Social
+1775,Canada,Email
+1776,US,Paid Search
+1777,US,Paid Search
+1782,US,Email
+1784,US,Organic
+1785,US,Referral
+1787,Canada,Social
+1789,UK,Organic
+1790,US,Social
+1798,Australia,Paid Search
+1799,US,Organic
+1802,Australia,Referral
+1803,US,Organic
+1804,UK,Social
+1807,Canada,Organic
+1808,US,Paid Search
+1816,US,Email
+1821,UK,Email
+1822,UK,Email
+1829,Australia,Paid Search
+1830,US,Organic
+1831,Germany,Organic
+1833,US,Paid Search
+1844,UK,Social
+1846,US,Organic
+1848,US,Organic
+1850,Canada,Organic
+1853,UK,Organic
+1856,Canada,Social
+1857,US,Email
+1858,US,Paid Search
+1863,US,Paid Search
+1864,UK,Paid Search
+1866,UK,Organic
+1867,US,Social
+1871,US,Paid Search
+1873,US,Email
+1874,US,Email
+1875,UK,Social
+1877,UK,Organic
+1878,Canada,Paid Search
+1879,Germany,Referral
+1882,US,Organic
+1883,US,Paid Search
+1886,US,Social
+1889,Canada,Social
+1892,Germany,Email
+1894,US,Paid Search
+1895,US,Organic
+1897,UK,Paid Search
+1901,US,Paid Search
+1904,Canada,Paid Search
+1905,Germany,Organic
+1907,UK,Paid Search
+1909,UK,Paid Search
+1914,Australia,Organic
+1915,Australia,Email
+1916,Germany,Social
+1917,Australia,Organic
+1921,UK,Referral
+1923,Australia,Paid Search
+1927,US,Paid Search
+1928,UK,Paid Search
+1929,US,Referral
+1930,Canada,Social
+1934,US,Paid Search
+1936,US,Paid Search
+1938,US,Paid Search
+1940,UK,Email
+1942,US,Paid Search
+1943,Canada,Referral
+1945,UK,Organic
+1947,Germany,Referral
+1948,US,Organic
+1951,UK,Email
+1953,Australia,Email
+1955,Australia,Email
+1957,US,Organic
+1958,US,Paid Search
+1960,Germany,Organic
+1963,Canada,Email
+1964,Canada,Paid Search
+1967,UK,Paid Search
+1968,Australia,Social
+1969,US,Organic
+1970,US,Referral
+1972,US,Paid Search
+1973,UK,Organic
+1975,Canada,Organic
+1976,Australia,Referral
+1981,US,Social
+1988,Germany,Email
+1991,UK,Referral
+1992,Germany,Organic
+2002,Australia,Referral
+2003,US,Social
+2005,Canada,Organic
+2007,UK,Email
+2012,Canada,Paid Search
+2013,Canada,Referral
+2014,US,Email
+2017,Canada,Paid Search
+2018,Canada,Paid Search
+2019,US,Paid Search
+2020,UK,Referral
+2025,US,Social
+2026,UK,Paid Search
+2027,US,Social
+2029,Germany,Referral
+2030,UK,Referral
+2032,US,Social
+2034,US,Paid Search
+2035,US,Social
+2036,Australia,Social
+2041,US,Social
+2042,US,Referral
+2043,Australia,Referral
+2045,Germany,Referral
+2046,US,Paid Search
+2047,Canada,Email
+2048,Germany,Email
+2050,Canada,Organic
+2056,UK,Organic
+2057,UK,Paid Search
+2058,US,Paid Search
+2059,Canada,Organic
+2064,Canada,Paid Search
+2067,US,Email
+2072,UK,Social
+2074,UK,Social
+2076,UK,Paid Search
+2077,US,Paid Search
+2079,Germany,Paid Search
+2080,Germany,Social
+2081,US,Paid Search
+2083,US,Paid Search
+2084,UK,Paid Search
+2085,US,Referral
+2090,US,Organic
+2093,US,Email
+2094,Germany,Social
+2095,US,Organic
+2096,Australia,Paid Search
+2097,US,Referral
+2101,US,Organic
+2103,Canada,Email
+2106,US,Paid Search
+2109,UK,Paid Search
+2110,UK,Social
+2111,US,Email
+2112,US,Paid Search
+2113,Germany,Paid Search
+2114,Canada,Organic
+2118,US,Organic
+2119,US,Social
+2120,Canada,Paid Search
+2124,US,Social
+2125,Germany,Social
+2129,UK,Email
+2130,UK,Paid Search
+2132,Australia,Email
+2133,Australia,Referral
+2134,Australia,Social
+2135,US,Referral
+2137,UK,Social
+2141,US,Paid Search
+2142,US,Organic
+2144,US,Referral
+2145,UK,Social
+2146,UK,Referral
+2147,US,Paid Search
+2150,US,Referral
+2152,UK,Paid Search
+2158,US,Referral
+2159,US,Referral
+2160,US,Email
+2161,US,Paid Search
+2162,UK,Social
+2166,Canada,Paid Search
+2170,US,Referral
+2175,US,Organic
+2180,US,Organic
+2181,US,Paid Search
+2185,US,Email
+2186,Germany,Organic
+2188,US,Paid Search
+2189,UK,Referral
+2193,US,Referral
+2194,Germany,Email
+2195,Australia,Email
+2196,UK,Referral
+2197,UK,Organic
+2200,US,Social
+2201,US,Social
+2202,Germany,Email
+2203,US,Email
+2204,UK,Referral
+2205,US,Email
+2207,US,Referral
+2211,US,Referral
+2213,Canada,Organic
+2214,UK,Organic
+2219,US,Referral
+2220,Australia,Organic
+2221,US,Paid Search
+2222,Canada,Paid Search
+2223,US,Referral
+2229,Germany,Referral
+2232,US,Organic
+2235,Australia,Organic
+2236,US,Paid Search
+2237,Germany,Email
+2238,UK,Social
+2245,Germany,Paid Search
+2252,US,Organic
+2256,US,Email
+2257,Canada,Organic
+2258,US,Paid Search
+2262,US,Social
+2264,Germany,Organic
+2266,Germany,Social
+2267,Germany,Referral
+2269,Canada,Social
+2270,US,Social
+2272,US,Referral
+2274,Canada,Email
+2277,US,Social
+2280,US,Paid Search
+2282,UK,Organic
+2283,US,Referral
+2284,UK,Social
+2285,US,Social
+2287,US,Social
+2288,Germany,Organic
+2289,US,Paid Search
+2290,US,Paid Search
+2291,Canada,Email
+2293,UK,Social
+2295,Canada,Paid Search
+2298,US,Paid Search
+2299,US,Organic
+2302,US,Social
+2303,US,Social
+2309,US,Paid Search
+2311,Australia,Organic
+2313,US,Referral
+2314,US,Paid Search
+2318,Australia,Referral
+2322,UK,Social
+2323,US,Referral
+2332,UK,Social
+2337,Australia,Paid Search
+2339,US,Paid Search
+2341,US,Social
+2343,Canada,Paid Search
+2346,UK,Paid Search
+2347,UK,Organic
+2349,US,Email
+2350,US,Referral
+2352,Australia,Referral
+2355,UK,Email
+2357,Canada,Organic
+2359,Australia,Organic
+2361,US,Organic
+2363,UK,Email
+2365,UK,Organic
+2366,Germany,Referral
+2367,US,Email
+2368,Canada,Email
+2370,US,Email
+2371,US,Social
+2373,US,Email
+2374,US,Organic
+2375,UK,Organic
+2377,Canada,Paid Search
+2380,US,Paid Search
+2384,US,Organic
+2385,US,Organic
+2388,UK,Paid Search
+2389,US,Paid Search
+2393,UK,Paid Search
+2395,US,Referral
+2396,UK,Organic
+2398,Canada,Organic
+2401,UK,Organic
+2405,Germany,Email
+2406,Australia,Email
+2408,Canada,Social
+2409,Australia,Paid Search
+2412,UK,Organic
+2413,UK,Organic
+2414,US,Referral
+2416,Australia,Social
+2417,Germany,Referral
+2421,US,Email
+2422,Australia,Social
+2424,Germany,Email
+2426,UK,Paid Search
+2430,UK,Social
+2431,US,Paid Search
+2435,Canada,Organic
+2437,US,Organic
+2438,Canada,Social
+2439,Germany,Paid Search
+2441,Canada,Organic
+2442,US,Social
+2443,US,Organic
+2444,US,Organic
+2445,Australia,Social
+2446,US,Paid Search
+2447,UK,Referral
+2449,US,Social
+2456,US,Organic
+2459,UK,Social
+2461,Germany,Social
+2468,UK,Organic
+2469,UK,Paid Search
+2473,US,Organic
+2474,US,Organic
+2478,UK,Referral
+2479,US,Organic
+2481,US,Referral
+2482,US,Social
+2485,Canada,Paid Search
+2486,Australia,Social
+2489,Canada,Paid Search
+2493,US,Email
+2494,Australia,Email
+2498,Germany,Organic
+2499,UK,Paid Search
+2504,UK,Email
+2505,Canada,Social
+2506,US,Social
+2507,UK,Referral
+2512,UK,Email
+2517,Germany,Social
+2524,US,Referral
+2526,Australia,Social
+2528,Canada,Email
+2530,US,Organic
+2536,US,Social
+2537,US,Paid Search
+2540,US,Referral
+2541,US,Referral
+2546,UK,Social
+2549,Canada,Organic
+2551,UK,Paid Search
+2553,Canada,Paid Search
+2556,US,Social
+2557,Canada,Organic
+2565,US,Referral
+2570,Canada,Email
+2572,Germany,Paid Search
+2573,Australia,Organic
+2577,US,Social
+2578,US,Organic
+2579,UK,Organic
+2584,US,Social
+2586,US,Paid Search
+2587,US,Referral
+2590,UK,Paid Search
+2594,UK,Email
+2598,UK,Paid Search
+2599,US,Social
+2600,US,Referral
+2604,Germany,Email
+2607,US,Organic
+2613,UK,Paid Search
+2617,UK,Paid Search
+2618,Canada,Referral
+2620,Canada,Organic
+2622,UK,Social
+2623,US,Email
+2625,US,Email
+2630,Australia,Paid Search
+2632,UK,Organic
+2634,UK,Referral
+2635,US,Organic
+2639,UK,Paid Search
+2641,US,Social
+2642,Germany,Referral
+2646,US,Email
+2649,UK,Email
+2651,US,Social
+2653,Germany,Paid Search
+2656,US,Organic
+2658,UK,Paid Search
+2662,US,Paid Search
+2665,US,Organic
+2666,UK,Paid Search
+2668,Canada,Referral
+2669,UK,Organic
+2672,US,Organic
+2674,US,Paid Search
+2679,Canada,Organic
+2680,Canada,Social
+2681,US,Referral
+2682,UK,Referral
+2683,Canada,Email
+2684,Australia,Referral
+2686,US,Email
+2688,US,Social
+2692,US,Organic
+2693,US,Referral
+2698,US,Referral
+2699,US,Paid Search
+2701,US,Email
+2703,US,Social
+2705,UK,Organic
+2706,US,Organic
+2708,US,Paid Search
+2713,Canada,Email
+2715,US,Social
+2718,US,Referral
+2720,US,Paid Search
+2722,UK,Organic
+2723,Canada,Referral
+2725,UK,Organic
+2729,US,Email
+2732,UK,Organic
+2735,Canada,Social
+2737,UK,Referral
+2741,US,Social
+2742,Canada,Paid Search
+2743,US,Referral
+2744,Canada,Social
+2745,UK,Email
+2746,US,Referral
+2747,Canada,Paid Search
+2748,Australia,Paid Search
+2751,Canada,Organic
+2757,US,Paid Search
+2763,US,Social
+2765,US,Organic
+2767,Canada,Organic
+2770,US,Paid Search
+2771,US,Paid Search
+2772,Germany,Referral
+2775,Canada,Referral
+2776,US,Organic
+2778,Canada,Organic
+2780,US,Organic
+2783,Germany,Social
+2784,US,Referral
+2787,UK,Referral
+2788,UK,Email
+2790,Australia,Social
+2793,US,Email
+2795,UK,Paid Search
+2802,US,Social
+2804,US,Organic
+2805,Canada,Social
+2806,UK,Referral
+2807,US,Paid Search
+2809,Australia,Social
+2810,Australia,Organic
+2812,Germany,Organic
+2814,Germany,Organic
+2815,Germany,Organic
+2816,US,Paid Search
+2818,Canada,Email
+2819,Canada,Social
+2820,Australia,Paid Search
+2821,US,Organic
+2823,UK,Paid Search
+2824,Canada,Email
+2831,US,Paid Search
+2839,US,Social
+2841,US,Organic
+2842,US,Paid Search
+2848,UK,Paid Search
+2849,Canada,Organic
+2852,US,Referral
+2853,US,Social
+2855,UK,Referral
+2856,US,Social
+2858,Germany,Organic
+2859,US,Organic
+2861,US,Organic
+2863,Australia,Paid Search
+2868,US,Organic
+2869,US,Social
+2870,UK,Paid Search
+2872,Australia,Email
+2878,Canada,Paid Search
+2880,UK,Referral
+2884,US,Organic
+2888,UK,Referral
+2890,US,Paid Search
+2892,Canada,Paid Search
+2894,US,Referral
+2895,US,Paid Search
+2897,US,Organic
+2902,Australia,Paid Search
+2903,Canada,Organic
+2906,US,Social
+2913,UK,Social
+2914,US,Paid Search
+2915,UK,Organic
+2916,US,Organic
+2918,US,Organic
+2919,Australia,Referral
+2922,Canada,Referral
+2923,US,Paid Search
+2924,US,Organic
+2926,UK,Social
+2930,US,Paid Search
+2933,US,Referral
+2934,Germany,Organic
+2935,Australia,Email
+2936,Germany,Organic
+2937,US,Social
+2942,US,Email
+2943,US,Social
+2944,Canada,Organic
+2948,Canada,Paid Search
+2949,UK,Referral
+2951,US,Referral
+2953,US,Paid Search
+2957,Canada,Organic
+2958,UK,Paid Search
+2959,US,Email
+2960,UK,Paid Search
+2962,US,Organic
+2963,Canada,Organic
+2964,UK,Email
+2971,Australia,Referral
+2972,US,Referral
+2974,US,Referral
+2976,US,Referral
+2978,Germany,Social
+2979,Canada,Email
+2981,UK,Organic
+2984,Australia,Social
+2986,Canada,Referral
+2987,US,Referral
+2988,Germany,Paid Search
+2995,US,Referral
+2996,Germany,Email
+3001,Australia,Paid Search
+3002,US,Organic
+3004,US,Referral
+3006,Canada,Organic
+3008,UK,Email
+3013,Australia,Referral
+3015,Germany,Paid Search
+3016,Australia,Email
+3019,Canada,Organic
+3020,Australia,Paid Search
+3024,UK,Social
+3025,Canada,Referral
+3027,Canada,Organic
+3029,US,Social
+3031,US,Email
+3033,US,Organic
+3035,UK,Referral
+3036,US,Organic
+3037,Australia,Referral
+3039,US,Paid Search
+3040,US,Referral
+3041,US,Paid Search
+3042,US,Referral
+3043,US,Organic
+3044,UK,Paid Search
+3045,US,Social
+3048,US,Paid Search
+3052,UK,Referral
+3053,Germany,Paid Search
+3055,Australia,Referral
+3057,UK,Referral
+3058,Germany,Referral
+3059,US,Email
+3060,Australia,Organic
+3061,Australia,Paid Search
+3062,Germany,Email
+3066,UK,Social
+3067,US,Referral
+3068,UK,Referral
+3069,Canada,Organic
+3073,Canada,Organic
+3074,Canada,Social
+3076,US,Social
+3077,Australia,Social
+3080,US,Organic
+3085,US,Paid Search
+3086,US,Referral
+3087,US,Organic
+3088,Australia,Referral
+3089,UK,Organic
+3091,Canada,Paid Search
+3094,US,Referral
+3098,US,Social
+3103,UK,Referral
+3104,Canada,Organic
+3107,US,Paid Search
+3109,Australia,Paid Search
+3112,US,Paid Search
+3113,UK,Email
+3115,UK,Organic
+3116,Australia,Social
+3118,UK,Email
+3122,Germany,Social
+3123,Australia,Organic
+3124,US,Referral
+3125,Australia,Paid Search
+3126,Germany,Social
+3128,UK,Organic
+3129,US,Organic
+3130,UK,Paid Search
+3132,Canada,Organic
+3138,UK,Organic
+3142,Germany,Email
+3146,Canada,Organic
+3147,US,Email
+3148,UK,Email
+3150,US,Email
+3154,Germany,Organic
+3157,UK,Paid Search
+3158,US,Paid Search
+3159,US,Social
+3160,US,Organic
+3164,UK,Paid Search
+3165,UK,Paid Search
+3168,US,Social
+3172,Canada,Social
+3174,US,Referral
+3179,Canada,Social
+3181,US,Paid Search
+3182,US,Referral
+3183,US,Referral
+3184,Germany,Social
+3185,Canada,Email
+3190,UK,Organic
+3195,UK,Social
+3196,US,Referral
+3199,US,Organic
+3201,US,Organic
+3202,Germany,Paid Search
+3207,UK,Social
+3209,US,Paid Search
+3211,Germany,Referral
+3212,US,Organic
+3213,US,Social
+3217,Germany,Paid Search
+3218,Germany,Referral
+3220,US,Paid Search
+3224,Canada,Paid Search
+3225,US,Social
+3228,Canada,Referral
+3229,Canada,Organic
+3234,Australia,Paid Search
+3236,US,Email
+3237,US,Social
+3240,Germany,Paid Search
+3244,US,Email
+3246,UK,Email
+3250,Australia,Organic
+3251,US,Referral
+3252,US,Organic
+3255,Australia,Organic
+3257,UK,Referral
+3258,Australia,Organic
+3263,Canada,Paid Search
+3265,US,Organic
+3271,US,Paid Search
+3277,Australia,Organic
+3278,US,Referral
+3280,Germany,Email
+3281,Germany,Referral
+3286,US,Organic
+3288,UK,Organic
+3297,US,Organic
+3298,Germany,Organic
+3303,US,Referral
+3304,UK,Organic
+3306,UK,Social
+3307,Australia,Paid Search
+3308,Germany,Referral
+3309,US,Social
+3310,UK,Paid Search
+3311,US,Social
+3312,UK,Referral
+3315,US,Paid Search
+3320,US,Organic
+3326,UK,Paid Search
+3327,UK,Paid Search
+3329,US,Social
+3330,UK,Organic
+3336,Australia,Organic
+3340,US,Social
+3349,Canada,Paid Search
+3351,Canada,Organic
+3353,US,Email
+3354,Canada,Referral
+3355,Canada,Organic
+3356,US,Paid Search
+3357,Germany,Organic
+3358,UK,Paid Search
+3359,UK,Social
+3360,US,Paid Search
+3361,US,Referral
+3363,UK,Social
+3364,UK,Email
+3365,Canada,Social
+3367,Canada,Referral
+3368,Australia,Social
+3369,Canada,Paid Search
+3370,Canada,Paid Search
+3371,Australia,Email
+3372,US,Organic
+3374,Germany,Paid Search
+3375,UK,Referral
+3377,Germany,Email
+3378,US,Organic
+3379,US,Paid Search
+3381,UK,Paid Search
+3383,UK,Email
+3385,UK,Organic
+3390,US,Organic
+3393,UK,Referral
+3399,Canada,Email
+3400,Canada,Organic
+3401,Canada,Paid Search
+3403,UK,Organic
+3406,UK,Email
+3407,UK,Organic
+3408,US,Organic
+3410,UK,Organic
+3412,US,Referral
+3415,Australia,Organic
+3418,Canada,Referral
+3419,UK,Paid Search
+3422,US,Organic
+3424,US,Organic
+3425,UK,Paid Search
+3426,Canada,Paid Search
+3429,Canada,Organic
+3433,UK,Email
+3436,UK,Paid Search
+3439,UK,Email
+3441,UK,Paid Search
+3445,Canada,Email
+3451,Germany,Paid Search
+3453,Australia,Email
+3459,UK,Paid Search
+3463,US,Referral
+3465,Germany,Referral
+3467,US,Email
+3468,UK,Organic
+3469,UK,Organic
+3470,US,Organic
+3472,US,Paid Search
+3474,US,Email
+3477,UK,Paid Search
+3479,US,Organic
+3480,Canada,Paid Search
+3484,UK,Organic
+3488,UK,Social
+3489,Germany,Paid Search
+3491,US,Referral
+3492,Germany,Organic
+3494,UK,Paid Search
+3495,US,Paid Search
+3496,US,Social
+3498,US,Paid Search
+3499,Germany,Paid Search
+3501,Canada,Social
+3502,UK,Email
+3503,UK,Paid Search
+3505,UK,Organic
+3506,UK,Referral
+3509,Canada,Organic
+3511,UK,Organic
+3512,UK,Social
+3513,US,Email
+3515,US,Organic
+3518,US,Social
+3520,US,Referral
+3521,Germany,Organic
+3522,UK,Social
+3523,US,Paid Search
+3524,UK,Organic
+3525,US,Social
+3527,UK,Paid Search
+3530,US,Paid Search
+3532,UK,Email
+3533,Germany,Organic
+3538,US,Organic
+3539,Canada,Social
+3542,Germany,Paid Search
+3547,Canada,Social
+3549,UK,Referral
+3554,US,Social
+3557,US,Referral
+3559,UK,Organic
+3561,Canada,Organic
+3562,US,Email
+3563,US,Social
+3567,US,Referral
+3568,Australia,Social
+3569,US,Paid Search
+3570,UK,Organic
+3575,US,Paid Search
+3579,US,Social
+3581,Canada,Organic
+3583,US,Social
+3585,Australia,Referral
+3588,UK,Paid Search
+3589,Canada,Organic
+3592,US,Organic
+3593,Germany,Social
+3594,UK,Paid Search
+3595,UK,Social
+3596,UK,Organic
+3600,UK,Social
+3604,US,Organic
+3608,UK,Social
+3609,Germany,Organic
+3610,US,Social
+3613,UK,Paid Search
+3614,US,Organic
+3618,US,Organic
+3619,UK,Organic
+3620,Canada,Paid Search
+3621,US,Email
+3623,Germany,Paid Search
+3624,Canada,Referral
+3628,US,Social
+3637,UK,Referral
+3638,Australia,Organic
+3639,UK,Paid Search
+3640,US,Paid Search
+3641,Canada,Organic
+3642,US,Paid Search
+3644,US,Organic
+3647,US,Paid Search
+3648,UK,Referral
+3650,UK,Organic
+3651,Australia,Social
+3653,US,Referral
+3659,Germany,Social
+3662,Canada,Social
+3665,US,Organic
+3666,Canada,Referral
+3669,Germany,Organic
+3671,US,Referral
+3672,Germany,Organic
+3673,Germany,Social
+3674,UK,Social
+3675,US,Organic
+3682,US,Paid Search
+3683,Germany,Organic
+3692,US,Organic
+3693,Canada,Paid Search
+3695,UK,Email
+3697,UK,Email
+3698,US,Organic
+3703,Germany,Paid Search
+3704,US,Referral
+3706,US,Organic
+3707,Canada,Social
+3709,Canada,Paid Search
+3710,UK,Organic
+3711,Australia,Email
+3712,US,Paid Search
+3713,Australia,Paid Search
+3720,US,Social
+3721,Canada,Referral
+3722,Germany,Organic
+3723,UK,Referral
+3724,US,Referral
+3729,UK,Email
+3737,US,Paid Search
+3740,UK,Paid Search
+3741,UK,Social
+3742,US,Social
+3744,UK,Social
+3745,Australia,Organic
+3746,Canada,Organic
+3747,Canada,Social
+3750,US,Paid Search
+3751,Germany,Organic
+3753,US,Paid Search
+3754,US,Social
+3757,Canada,Paid Search
+3758,UK,Organic
+3763,Canada,Paid Search
+3767,US,Organic
+3771,US,Email
+3772,Canada,Organic
+3780,Australia,Paid Search
+3781,US,Organic
+3783,Canada,Paid Search
+3786,UK,Organic
+3789,US,Paid Search
+3791,US,Referral
+3792,US,Email
+3794,US,Organic
+3795,US,Paid Search
+3796,UK,Social
+3797,US,Organic
+3799,US,Organic
+3800,US,Email
+3801,US,Referral
+3804,Canada,Email
+3807,Canada,Referral
+3811,US,Social
+3814,US,Email
+3818,US,Paid Search
+3820,Australia,Referral
+3821,Australia,Referral
+3823,UK,Paid Search
+3824,UK,Social
+3830,UK,Organic
+3832,US,Paid Search
+3833,Canada,Email
+3835,Australia,Organic
+3836,US,Referral
+3837,US,Organic
+3838,UK,Email
+3839,Australia,Email
+3841,UK,Social
+3842,US,Social
+3847,Australia,Paid Search
+3848,US,Organic
+3857,UK,Referral
+3859,UK,Referral
+3865,US,Social
+3866,US,Organic
+3867,US,Paid Search
+3872,Australia,Email
+3875,US,Email
+3877,Australia,Email
+3878,Australia,Email
+3881,US,Organic
+3883,UK,Paid Search
+3884,US,Referral
+3885,US,Social
+3887,Canada,Email
+3888,Canada,Organic
+3890,Germany,Organic
+3891,UK,Paid Search
+3893,US,Paid Search
+3894,Australia,Social
+3897,UK,Organic
+3898,Canada,Organic
+3899,Canada,Organic
+3900,Germany,Paid Search
+3901,US,Organic
+3903,Canada,Referral
+3905,UK,Referral
+3906,Canada,Organic
+3910,Australia,Paid Search
+3912,UK,Social
+3913,Australia,Organic
+3914,US,Social
+3915,US,Email
+3917,UK,Referral
+3919,US,Organic
+3921,US,Organic
+3924,US,Social
+3925,US,Social
+3926,Germany,Referral
+3927,Canada,Referral
+3931,US,Social
+3933,UK,Organic
+3938,US,Social
+3941,Australia,Paid Search
+3942,US,Social
+3946,US,Organic
+3949,UK,Organic
+3957,Canada,Referral
+3959,UK,Paid Search
+3962,UK,Social
+3963,US,Social
+3964,Germany,Email
+3965,US,Paid Search
+3966,US,Referral
+3967,US,Social
+3969,US,Organic
+3970,UK,Social
+3971,Canada,Paid Search
+3972,US,Social
+3976,US,Social
+3977,Canada,Paid Search
+3978,Australia,Email
+3979,US,Organic
+3981,US,Organic
+3985,UK,Organic
+3986,Germany,Organic
+3988,Australia,Social
+3989,US,Organic
+3991,US,Organic
+4000,UK,Paid Search
+4001,Canada,Social
+4005,US,Organic
+4006,US,Email
+4007,US,Referral
+4011,Canada,Paid Search
+4012,UK,Paid Search
+4016,US,Organic
+4018,Canada,Social
+4023,US,Email
+4029,Australia,Social
+4035,Germany,Organic
+4037,Australia,Organic
+4039,UK,Paid Search
+4041,US,Email
+4042,UK,Paid Search
+4044,UK,Paid Search
+4045,US,Referral
+4046,UK,Social
+4047,UK,Paid Search
+4048,US,Paid Search
+4051,US,Referral
+4063,Australia,Social
+4067,US,Organic
+4069,US,Paid Search
+4072,Australia,Paid Search
+4074,Australia,Paid Search
+4078,US,Paid Search
+4079,Canada,Organic
+4080,Canada,Organic
+4081,UK,Organic
+4082,US,Referral
+4083,US,Social
+4084,Germany,Referral
+4085,UK,Referral
+4086,Australia,Social
+4087,Canada,Paid Search
+4090,UK,Paid Search
+4093,US,Organic
+4094,UK,Organic
+4095,Australia,Email
+4096,Canada,Paid Search
+4097,US,Paid Search
+4098,Germany,Organic
+4099,US,Paid Search
+4103,Germany,Paid Search
+4104,Australia,Paid Search
+4111,US,Referral
+4112,US,Social
+4118,UK,Email
+4119,UK,Email
+4120,US,Referral
+4121,US,Paid Search
+4126,US,Referral
+4131,Australia,Organic
+4133,UK,Paid Search
+4136,US,Referral
+4137,Canada,Email
+4139,US,Organic
+4144,US,Email
+4145,UK,Referral
+4147,US,Organic
+4150,Canada,Organic
+4151,UK,Organic
+4152,Australia,Organic
+4153,US,Paid Search
+4154,US,Paid Search
+4156,US,Referral
+4157,UK,Organic
+4159,US,Email
+4163,US,Social
+4165,US,Organic
+4169,Australia,Organic
+4170,US,Email
+4174,US,Organic
+4175,US,Email
+4177,US,Social
+4180,Canada,Email
+4182,UK,Referral
+4185,US,Organic
+4192,US,Organic
+4197,US,Social
+4199,UK,Organic
+4201,UK,Organic
+4206,UK,Social
+4207,UK,Email
+4208,US,Paid Search
+4209,US,Social
+4212,US,Paid Search
+4214,UK,Organic
+4217,Canada,Social
+4219,US,Social
+4222,Canada,Paid Search
+4226,Canada,Paid Search
+4228,US,Email
+4230,US,Email
+4231,UK,Organic
+4235,Canada,Email
+4236,US,Organic
+4237,Australia,Referral
+4240,US,Email
+4242,US,Email
+4246,Canada,Paid Search
+4247,US,Social
+4250,Germany,Referral
+4253,Germany,Paid Search
+4254,US,Organic
+4262,Germany,Email
+4263,US,Email
+4264,US,Organic
+4265,US,Email
+4269,Canada,Referral
+4271,Canada,Email
+4272,Australia,Email
+4276,US,Organic
+4277,Canada,Organic
+4278,UK,Email
+4280,Germany,Organic
+4285,US,Referral
+4289,UK,Organic
+4291,US,Paid Search
+4292,Canada,Paid Search
+4293,Australia,Organic
+4298,US,Email
+4300,Germany,Paid Search
+4303,UK,Paid Search
+4304,UK,Paid Search
+4307,UK,Paid Search
+4308,US,Paid Search
+4309,Canada,Email
+4310,US,Email
+4311,US,Referral
+4313,UK,Email
+4314,Germany,Email
+4317,US,Referral
+4319,Germany,Paid Search
+4322,UK,Social
+4323,US,Organic
+4326,US,Paid Search
+4334,US,Referral
+4335,US,Referral
+4336,Germany,Paid Search
+4341,Canada,Social
+4342,Germany,Social
+4343,US,Paid Search
+4345,US,Social
+4348,UK,Referral
+4349,US,Email
+4350,Australia,Paid Search
+4351,US,Organic
+4352,UK,Paid Search
+4354,Canada,Email
+4356,Canada,Paid Search
+4357,UK,Referral
+4358,UK,Paid Search
+4359,Canada,Social
+4362,UK,Paid Search
+4364,Canada,Paid Search
+4366,US,Organic
+4368,UK,Paid Search
+4369,UK,Paid Search
+4370,Germany,Paid Search
+4371,US,Paid Search
+4372,US,Social
+4373,US,Email
+4375,Canada,Social
+4379,UK,Organic
+4380,US,Paid Search
+4381,Canada,Email
+4382,UK,Paid Search
+4383,US,Referral
+4388,UK,Paid Search
+4394,UK,Email
+4395,UK,Organic
+4396,UK,Paid Search
+4401,Germany,Email
+4403,UK,Referral
+4404,UK,Social
+4405,US,Paid Search
+4406,US,Paid Search
+4407,Canada,Paid Search
+4408,Canada,Paid Search
+4409,UK,Referral
+4411,UK,Organic
+4412,US,Referral
+4413,US,Social
+4414,UK,Email
+4420,Canada,Organic
+4422,US,Referral
+4423,US,Social
+4424,US,Paid Search
+4425,UK,Referral
+4434,UK,Email
+4435,US,Organic
+4438,Germany,Email
+4440,US,Paid Search
+4442,US,Email
+4443,Germany,Organic
+4444,UK,Referral
+4446,US,Social
+4450,US,Paid Search
+4451,UK,Referral
+4453,Canada,Organic
+4454,US,Paid Search
+4458,US,Email
+4459,US,Email
+4460,UK,Paid Search
+4461,Germany,Organic
+4463,US,Organic
+4464,Canada,Organic
+4466,Australia,Referral
+4476,US,Referral
+4481,Germany,Referral
+4482,US,Referral
+4483,Canada,Social
+4485,US,Email
+4486,UK,Email
+4487,US,Social
+4488,US,Email
+4493,Germany,Social
+4499,Canada,Email
+4500,Canada,Organic
+4504,UK,Referral
+4505,Canada,Paid Search
+4508,US,Organic
+4511,UK,Paid Search
+4514,US,Referral
+4516,US,Social
+4517,US,Social
+4519,UK,Paid Search
+4522,Canada,Organic
+4526,UK,Paid Search
+4529,US,Organic
+4530,UK,Organic
+4531,Canada,Social
+4532,US,Organic
+4533,US,Referral
+4537,Canada,Paid Search
+4542,UK,Paid Search
+4544,Canada,Email
+4545,US,Email
+4547,UK,Paid Search
+4548,US,Paid Search
+4550,UK,Paid Search
+4552,US,Social
+4553,Germany,Referral
+4555,Canada,Referral
+4557,US,Organic
+4558,US,Social
+4559,Australia,Organic
+4560,Australia,Organic
+4564,US,Paid Search
+4565,UK,Email
+4572,UK,Referral
+4573,US,Referral
+4574,US,Organic
+4577,Canada,Organic
+4578,US,Organic
+4581,Canada,Referral
+4582,US,Referral
+4583,UK,Organic
+4586,Canada,Organic
+4587,UK,Referral
+4593,UK,Paid Search
+4594,US,Organic
+4595,Australia,Paid Search
+4596,UK,Paid Search
+4597,US,Paid Search
+4598,UK,Organic
+4609,Germany,Organic
+4610,Canada,Referral
+4611,US,Paid Search
+4612,US,Paid Search
+4614,US,Social
+4618,Canada,Email
+4627,US,Organic
+4636,US,Paid Search
+4637,Germany,Email
+4641,Canada,Paid Search
+4643,Canada,Paid Search
+4645,UK,Social
+4646,US,Paid Search
+4647,UK,Referral
+4649,US,Referral
+4655,US,Organic
+4659,UK,Social
+4660,UK,Paid Search
+4661,US,Organic
+4662,Canada,Email
+4663,Germany,Organic
+4666,UK,Organic
+4674,Canada,Paid Search
+4675,Germany,Paid Search
+4676,UK,Email
+4677,UK,Referral
+4680,US,Paid Search
+4681,UK,Paid Search
+4684,Australia,Social
+4686,UK,Referral
+4691,Australia,Organic
+4694,US,Organic
+4695,Canada,Referral
+4703,US,Organic
+4705,US,Paid Search
+4707,Germany,Paid Search
+4708,UK,Paid Search
+4715,UK,Organic
+4716,US,Organic
+4718,Canada,Paid Search
+4719,US,Social
+4720,UK,Paid Search
+4721,US,Organic
+4724,US,Organic
+4725,Germany,Referral
+4726,Germany,Paid Search
+4728,UK,Organic
+4730,Australia,Referral
+4733,Canada,Social
+4734,Germany,Paid Search
+4735,US,Paid Search
+4737,US,Referral
+4741,Germany,Referral
+4742,Canada,Social
+4745,Canada,Organic
+4746,UK,Social
+4747,UK,Organic
+4748,Australia,Email
+4751,US,Organic
+4752,US,Paid Search
+4753,Canada,Paid Search
+4758,UK,Social
+4760,Australia,Referral
+4762,Canada,Referral
+4763,US,Paid Search
+4767,US,Organic
+4772,US,Email
+4773,US,Email
+4778,UK,Paid Search
+4779,Canada,Paid Search
+4780,UK,Organic
+4782,UK,Referral
+4786,Australia,Social
+4788,US,Organic
+4789,US,Referral
+4798,US,Paid Search
+4801,US,Paid Search
+4802,US,Paid Search
+4803,UK,Organic
+4804,US,Referral
+4807,US,Social
+4810,Germany,Paid Search
+4817,Canada,Email
+4820,US,Social
+4821,Germany,Paid Search
+4826,UK,Social
+4830,UK,Social
+4833,US,Organic
+4841,Canada,Paid Search
+4844,Australia,Social
+4845,US,Referral
+4847,Canada,Organic
+4849,Canada,Organic
+4851,UK,Referral
+4854,Canada,Social
+4858,Canada,Referral
+4860,UK,Referral
+4862,Canada,Email
+4863,US,Organic
+4864,US,Organic
+4867,US,Paid Search
+4868,US,Social
+4869,Canada,Organic
+4870,Germany,Social
+4871,UK,Email
+4872,US,Social
+4877,US,Social
+4878,UK,Organic
+4879,US,Paid Search
+4880,Canada,Social
+4882,Australia,Organic
+4886,US,Organic
+4888,Australia,Email
+4890,US,Referral
+4893,Australia,Paid Search
+4895,Canada,Organic
+4899,US,Email
+4900,US,Paid Search
+4901,US,Organic
+4903,US,Social
+4904,UK,Referral
+4906,US,Organic
+4913,UK,Paid Search
+4915,Germany,Referral
+4917,US,Organic
+4923,Canada,Referral
+4924,US,Referral
+4928,Germany,Organic
+4929,Australia,Organic
+4930,US,Organic
+4932,Canada,Organic
+4933,Canada,Paid Search
+4936,US,Social
+4940,Germany,Organic
+4944,UK,Email
+4947,Germany,Email
+4948,Australia,Paid Search
+4954,Canada,Referral
+4957,Germany,Organic
+4960,Germany,Organic
+4966,US,Referral
+4968,Germany,Paid Search
+4970,US,Social
+4972,Australia,Email
+4975,UK,Email
+4976,US,Organic
+4979,UK,Email
+4981,US,Referral
+4982,US,Organic
+4983,US,Organic
+4986,US,Paid Search
+4987,US,Organic
+4989,US,Social
+4990,Australia,Referral
+4993,UK,Social
+4994,US,Social
+4996,Australia,Organic
+5001,Australia,Social
+5009,US,Social
+5010,Australia,Paid Search
+5014,US,Social
+5015,Germany,Referral
+5016,UK,Organic
+5017,UK,Referral
+5021,UK,Social
+5025,US,Organic
+5026,Canada,Organic
+5027,US,Email
+5028,Australia,Organic
+5029,UK,Social
+5031,US,Referral
+5034,UK,Social
+5039,UK,Organic
+5042,US,Referral
+5044,US,Organic
+5045,UK,Social
+5047,Australia,Organic
+5048,UK,Referral
+5052,US,Paid Search
+5053,Australia,Social
+5055,US,Paid Search
+5056,Canada,Organic
+5058,US,Email
+5060,US,Paid Search
+5062,UK,Organic
+5063,US,Referral
+5065,US,Email
+5067,Australia,Paid Search
+5068,UK,Paid Search
+5070,US,Organic
+5072,US,Organic
+5078,UK,Referral
+5080,Canada,Organic
+5082,Canada,Paid Search
+5084,Canada,Email
+5089,Australia,Paid Search
+5090,UK,Social
+5091,UK,Organic
+5094,US,Organic
+5097,US,Paid Search
+5100,UK,Email
+5101,Australia,Paid Search
+5102,US,Social
+5104,UK,Email
+5105,Australia,Organic
+5107,Canada,Email
+5111,US,Social
+5113,US,Organic
+5115,UK,Paid Search
+5116,UK,Referral
+5121,Australia,Paid Search
+5122,UK,Paid Search
+5125,Germany,Paid Search
+5126,US,Email
+5127,US,Paid Search
+5130,Canada,Organic
+5134,Germany,Organic
+5135,Canada,Organic
+5137,Australia,Social
+5141,US,Email
+5142,US,Organic
+5144,US,Organic
+5145,US,Social
+5152,US,Organic
+5154,Canada,Paid Search
+5156,US,Paid Search
+5160,US,Social
+5162,Canada,Social
+5163,US,Paid Search
+5167,US,Organic
+5171,US,Social
+5172,Canada,Referral
+5174,Germany,Organic
+5176,UK,Paid Search
+5179,Germany,Referral
+5181,US,Referral
+5182,US,Paid Search
+5186,US,Social
+5187,Germany,Paid Search
+5189,US,Organic
+5190,US,Organic
+5191,US,Social
+5192,US,Paid Search
+5197,US,Social
+5198,US,Organic
+5199,US,Paid Search
+5201,Canada,Email
+5203,Canada,Social
+5205,US,Organic
+5207,UK,Email
+5210,US,Referral
+5212,Canada,Referral
+5213,US,Paid Search
+5216,US,Paid Search
+5217,Australia,Paid Search
+5219,UK,Organic
+5220,Canada,Paid Search
+5221,US,Referral
+5223,US,Organic
+5227,US,Paid Search
+5229,Canada,Email
+5230,Canada,Referral
+5231,US,Organic
+5232,Germany,Email
+5234,Australia,Referral
+5235,Canada,Paid Search
+5237,UK,Referral
+5238,Canada,Paid Search
+5239,Canada,Paid Search
+5244,UK,Social
+5246,UK,Paid Search
+5247,US,Organic
+5248,UK,Organic
+5249,US,Paid Search
+5250,UK,Referral
+5252,Canada,Referral
+5256,US,Paid Search
+5258,US,Paid Search
+5259,UK,Paid Search
+5263,UK,Organic
+5266,US,Social
+5269,US,Referral
+5270,US,Referral
+5271,US,Organic
+5272,US,Paid Search
+5275,US,Organic
+5278,US,Paid Search
+5283,UK,Email
+5287,Germany,Social
+5288,Germany,Social
+5291,Australia,Social
+5293,US,Email
+5295,UK,Organic
+5296,Australia,Email
+5300,UK,Organic
+5302,Germany,Paid Search
+5305,Canada,Email
+5311,US,Referral
+5314,US,Email
+5315,US,Paid Search
+5316,US,Email
+5318,US,Organic
+5325,US,Paid Search
+5326,US,Social
+5327,Canada,Referral
+5329,Australia,Organic
+5331,UK,Paid Search
+5339,UK,Social
+5341,UK,Social
+5342,US,Paid Search
+5343,US,Organic
+5344,US,Social
+5349,US,Organic
+5350,Germany,Organic
+5351,US,Paid Search
+5353,US,Social
+5355,UK,Social
+5356,US,Email
+5358,Germany,Social
+5360,US,Email
+5371,US,Paid Search
+5372,UK,Paid Search
+5375,US,Paid Search
+5377,Australia,Email
+5378,US,Referral
+5380,US,Paid Search
+5381,UK,Email
+5382,US,Paid Search
+5383,UK,Email
+5384,UK,Referral
+5385,US,Organic
+5386,US,Organic
+5388,Canada,Social
+5390,US,Email
+5392,UK,Paid Search
+5394,US,Organic
+5396,Canada,Email
+5398,Canada,Referral
+5399,US,Referral
+5400,Germany,Organic
+5401,Canada,Referral
+5406,US,Social
+5407,Canada,Organic
+5410,US,Referral
+5411,US,Referral
+5412,US,Email
+5418,UK,Referral
+5419,Australia,Organic
+5421,Canada,Social
+5424,US,Organic
+5428,US,Organic
+5429,US,Social
+5430,Australia,Paid Search
+5431,US,Organic
+5440,Australia,Email
+5441,US,Organic
+5443,US,Social
+5448,US,Paid Search
+5449,Canada,Social
+5453,US,Email
+5454,US,Organic
+5460,US,Organic
+5463,UK,Email
+5466,Canada,Social
+5474,US,Social
+5475,US,Paid Search
+5476,US,Social
+5477,US,Referral
+5478,Australia,Social
+5479,Canada,Social
+5480,Australia,Social
+5481,UK,Paid Search
+5485,US,Email
+5486,UK,Organic
+5488,Australia,Organic
+5492,US,Referral
+5493,US,Referral
+5495,Canada,Paid Search
+5496,US,Organic
+5499,UK,Organic
+5501,UK,Paid Search
+5502,UK,Email
+5503,UK,Organic
+5504,UK,Social
+5510,US,Organic
+5511,US,Referral
+5512,Germany,Organic
+5513,UK,Social
+5518,UK,Organic
+5519,US,Paid Search
+5520,UK,Referral
+5521,US,Paid Search
+5523,Australia,Social
+5524,US,Paid Search
+5525,Australia,Referral
+5527,US,Email
+5531,UK,Social
+5533,US,Organic
+5534,Canada,Organic
+5535,US,Organic
+5537,UK,Referral
+5538,US,Organic
+5539,Canada,Social
+5544,Australia,Paid Search
+5545,US,Social
+5546,Canada,Organic
+5547,UK,Organic
+5548,US,Referral
+5551,US,Paid Search
+5552,Australia,Organic
+5555,Canada,Organic
+5556,UK,Organic
+5557,US,Email
+5558,Germany,Email
+5559,Canada,Organic
+5560,UK,Social
+5562,UK,Referral
+5563,UK,Email
+5564,US,Social
+5568,Canada,Paid Search
+5569,UK,Organic
+5571,Australia,Paid Search
+5578,US,Organic
+5580,UK,Paid Search
+5581,UK,Organic
+5583,US,Paid Search
+5584,US,Paid Search
+5585,Australia,Organic
+5586,Germany,Email
+5587,Canada,Referral
+5589,US,Social
+5591,US,Referral
+5592,US,Paid Search
+5599,Canada,Organic
+5601,Australia,Social
+5602,US,Organic
+5609,US,Referral
+5610,US,Paid Search
+5611,US,Organic
+5612,UK,Social
+5613,US,Organic
+5614,Canada,Social
+5615,Australia,Paid Search
+5617,US,Email
+5619,US,Email
+5621,Canada,Organic
+5622,US,Organic
+5628,Germany,Email
+5630,Canada,Referral
+5632,UK,Referral
+5633,US,Organic
+5634,US,Email
+5636,UK,Social
+5638,Canada,Organic
+5642,US,Email
+5643,US,Paid Search
+5645,UK,Organic
+5648,US,Paid Search
+5651,US,Organic
+5652,UK,Referral
+5654,UK,Referral
+5656,UK,Referral
+5657,US,Social
+5658,UK,Paid Search
+5662,US,Organic
+5663,US,Organic
+5668,Australia,Paid Search
+5669,UK,Paid Search
+5671,UK,Social
+5672,UK,Paid Search
+5674,Canada,Organic
+5676,US,Paid Search
+5677,US,Referral
+5680,US,Paid Search
+5681,US,Email
+5682,UK,Paid Search
+5684,Germany,Email
+5686,Australia,Paid Search
+5687,US,Organic
+5691,US,Organic
+5694,US,Social
+5695,US,Paid Search
+5696,Australia,Email
+5697,Canada,Paid Search
+5702,Canada,Email
+5703,US,Organic
+5708,US,Organic
+5709,UK,Referral
+5712,US,Paid Search
+5715,Australia,Social
+5721,US,Referral
+5722,UK,Organic
+5726,US,Social
+5727,UK,Organic
+5728,Canada,Email
+5729,Canada,Email
+5730,US,Paid Search
+5732,US,Organic
+5737,Australia,Organic
+5740,Canada,Social
+5741,UK,Organic
+5746,Australia,Social
+5747,US,Email
+5758,US,Email
+5759,US,Organic
+5760,UK,Organic
+5764,US,Paid Search
+5767,UK,Paid Search
+5768,Canada,Social
+5769,US,Paid Search
+5770,US,Social
+5772,UK,Paid Search
+5773,US,Social
+5774,UK,Organic
+5775,US,Referral
+5777,US,Social
+5780,Germany,Paid Search
+5783,UK,Organic
+5784,Canada,Email
+5786,US,Organic
+5793,UK,Paid Search
+5794,US,Organic
+5797,UK,Email
+5798,US,Paid Search
+5801,Canada,Social
+5802,US,Referral
+5804,Canada,Referral
+5805,Canada,Organic
+5808,UK,Referral
+5809,US,Organic
+5810,Australia,Referral
+5811,Germany,Referral
+5813,Germany,Paid Search
+5815,UK,Referral
+5816,Canada,Social
+5817,UK,Social
+5821,Canada,Social
+5824,UK,Referral
+5833,UK,Paid Search
+5835,US,Social
+5836,Australia,Referral
+5837,UK,Organic
+5839,UK,Paid Search
+5840,US,Referral
+5843,UK,Referral
+5844,UK,Social
+5848,UK,Organic
+5851,US,Paid Search
+5853,US,Organic
+5854,Australia,Organic
+5859,UK,Organic
+5860,UK,Referral
+5863,Australia,Organic
+5865,US,Email
+5868,Canada,Organic
+5869,US,Social
+5870,US,Referral
+5871,US,Email
+5873,Canada,Paid Search
+5875,UK,Organic
+5880,UK,Paid Search
+5881,UK,Paid Search
+5882,Australia,Paid Search
+5883,UK,Social
+5884,Germany,Organic
+5886,US,Paid Search
+5887,Germany,Referral
+5890,US,Paid Search
+5893,UK,Email
+5895,US,Organic
+5896,US,Email
+5897,US,Email
+5898,US,Organic
+5899,US,Referral
+5900,Germany,Paid Search
+5902,US,Paid Search
+5904,US,Organic
+5905,US,Referral
+5908,Australia,Social
+5909,US,Referral
+5910,UK,Email
+5912,Australia,Referral
+5915,Germany,Paid Search
+5917,Canada,Paid Search
+5918,Canada,Paid Search
+5920,UK,Paid Search
+5925,US,Email
+5929,Canada,Social
+5930,Australia,Referral
+5934,UK,Email
+5937,Australia,Organic
+5938,Germany,Social
+5941,UK,Social
+5943,US,Organic
+5945,US,Referral
+5946,UK,Referral
+5949,UK,Organic
+5953,US,Organic
+5955,Australia,Email
+5956,Canada,Organic
+5957,Canada,Social
+5959,Canada,Referral
+5967,Canada,Email
+5969,UK,Paid Search
+5970,US,Organic
+5972,US,Social
+5973,Germany,Organic
+5976,US,Email
+5982,US,Social
+5983,UK,Email
+5984,US,Referral
+5985,US,Social
+5986,US,Paid Search
+5991,Germany,Organic
+5992,US,Organic
+5993,Australia,Social
+5995,US,Organic
+5997,US,Social
+5999,Australia,Referral

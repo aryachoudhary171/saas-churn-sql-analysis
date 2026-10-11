@@ -1,0 +1,16 @@
+acquisition_channel,plan_name,eligible_customers,retained_12m,retention_12m
+Referral,Pro,120,94,0.7833
+Referral,Basic,263,184,0.6996
+Email,Pro,93,65,0.6989
+Organic,Pro,218,151,0.6927
+Social,Basic,280,192,0.6857
+Organic,Basic,424,290,0.684
+Email,Basic,230,155,0.6739
+Email,Business,23,15,0.6522
+Organic,Business,59,37,0.6271
+Social,Business,48,30,0.625
+Social,Pro,115,69,0.6
+Referral,Business,47,28,0.5957
+Paid Search,Basic,407,220,0.5405
+Paid Search,Pro,191,83,0.4346
+Paid Search,Business,62,26,0.4194

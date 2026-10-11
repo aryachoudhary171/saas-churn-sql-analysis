@@ -1,0 +1,6 @@
+Queries executed: 28
+All query outputs non-empty: yes
+Foreign key violations: 0
+Row count checks (CSV = database): {'customers': {'database': 6000, 'csv': 6000}, 'plans': {'database': 3, 'csv': 3}, 'subscriptions': {'database': 6000, 'csv': 6000}, 'payments': {'database': 50891, 'csv': 50891}, 'support_tickets': {'database': 5294, 'csv': 5294}}
+Result CSV files: 28
+Data quality review: 63 NULL satisfaction scores (1.19%); 21 duplicate-detail ticket rows; 1284 failed payment rows.
